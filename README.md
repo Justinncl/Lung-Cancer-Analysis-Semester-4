@@ -2,6 +2,11 @@
 
 https://github.com/user-attachments/assets/bef210c0-f837-40c2-961c-0837c145f960
 
+## 📑Dataset:
+https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link/data?status=pending&suggestionBundleId=178
+
+<br/>
+
 ## 🔧Utilities: 
 - Jupyter Notebook
 
@@ -12,8 +17,11 @@ https://github.com/user-attachments/assets/bef210c0-f837-40c2-961c-0837c145f960
   
 <br/>
 
-## 📑Dataset:
-https://www.kaggle.com/datasets/thedevastator/cancer-patients-and-air-pollution-a-new-link/data?status=pending&suggestionBundleId=178
+## 📖Library Requirements:
+In order to perform data preprocessing in the .ipynb file, first install the following library requirements.
+- Pandas
+- Matplotlib
+- Seaborn
 
 <br/>
 
